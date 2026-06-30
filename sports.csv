@@ -1,0 +1,21 @@
+sportName,category,description,benefits,teamSize,equipment,duration,tournamentLevels,governingBody,olympicSport,ageGroups
+Cricket,Outdoor,Bat and ball team sport,Coordination|Balance|Teamwork|Concentration|Decision Making,11 Players,Bat|Ball|Helmet|Pads|Gloves,20 Overs / 50 Overs / Test,School|District|State|National|International,ICC,false,U14|U16|U19|Senior
+Football,Outdoor,Team sport played with a football,Balance|Agility|Speed|Teamwork|Stamina,11 Players,Football|Boots|Shin Guards,90 Minutes,School|District|State|National|International,FIFA,true,U14|U17|Senior
+Badminton,Indoor,Racket sport played with a shuttlecock,Coordination|Reflexes|Agility|Fitness,Singles / Doubles,Racket|Shuttlecock,21 Points,School|District|State|National|International,BWF,true,U13|U15|Senior
+Basketball,Indoor,Fast-paced team sport,Jumping|Coordination|Teamwork|Speed,5 Players,Basketball|Shoes,40 Minutes,School|District|State|National|International,FIBA,true,U14|U17|Senior
+Volleyball,Indoor,Net-based team sport,Balance|Reflexes|Teamwork|Communication,6 Players,Volleyball|Net,5 Sets,School|District|State|National|International,FIVB,true,U14|U17|Senior
+Kabaddi,Indoor,Traditional Indian contact sport,Strength|Balance|Agility|Breathing Control,7 Players,Kabaddi Court,40 Minutes,School|District|State|National|International,AKFI,false,U14|U17|Senior
+Hockey,Outdoor,Stick and ball team sport,Coordination|Speed|Teamwork|Endurance,11 Players,Hockey Stick|Ball|Mouth Guard,60 Minutes,School|District|State|National|International,FIH,true,U14|U17|Senior
+Tennis,Outdoor,Racket sport played individually or in pairs,Agility|Coordination|Fitness|Concentration,Singles / Doubles,Tennis Racket|Ball,Best of 3 Sets,School|District|State|National|International,ITF,true,U14|U17|Senior
+Table Tennis,Indoor,Fast racket sport,Reflexes|Coordination|Concentration,Singles / Doubles,Paddle|Ball|Table,Best of 5 Games,School|District|State|National|International,ITTF,true,U13|U15|Senior
+Swimming,Aquatic,Racing sport in water,Stamina|Breathing|Flexibility|Endurance,Individual,Swimsuit|Goggles,Varies,School|District|State|National|International,World Aquatics,true,U12|U15|Senior
+Athletics,Outdoor,Track and field events,Speed|Strength|Endurance|Balance,Individual,Spikes|Starting Blocks,Varies,School|District|State|National|International,World Athletics,true,U14|U17|Senior
+Chess,Indoor,Strategy board game,Concentration|Memory|Decision Making|Planning,Individual,Chess Board,Varies,School|District|State|National|International,FIDE,false,U10|U14|Senior
+Boxing,Indoor,Combat sport,Strength|Speed|Reflexes|Discipline,Individual,Gloves|Head Guard,3 Rounds,School|District|State|National|International,IBA,true,U15|U19|Senior
+Wrestling,Indoor,Grappling combat sport,Strength|Balance|Endurance|Discipline,Individual,Wrestling Mat,6 Minutes,School|District|State|National|International,UWW,true,U15|U19|Senior
+Archery,Outdoor,Target shooting sport,Focus|Precision|Coordination|Patience,Individual,Bow|Arrows|Target,Varies,School|District|State|National|International,World Archery,true,U14|U17|Senior
+Cycling,Outdoor,Bicycle racing sport,Stamina|Balance|Endurance|Fitness,Individual,Bicycle|Helmet,Varies,School|District|State|National|International,UCI,true,U14|U17|Senior
+Gymnastics,Indoor,Artistic movement sport,Flexibility|Balance|Strength|Coordination,Individual,Gym Equipment,Varies,School|District|State|National|International,FIG,true,U10|U14|Senior
+Weightlifting,Indoor,Strength sport,Strength|Power|Discipline,Individual,Barbell|Weights,Varies,School|District|State|National|International,IWF,true,U15|U19|Senior
+Shooting,Indoor,Precision target sport,Concentration|Focus|Control,Individual,Rifle|Pistol|Targets,Varies,School|District|State|National|International,ISSF,true,U15|U19|Senior
+Rowing,Outdoor,Boat racing sport,Endurance|Teamwork|Strength,1/2/4/8 Players,Boat|Oars,2000m Race,School|District|State|National|International,World Rowing,true,U17|Senior
